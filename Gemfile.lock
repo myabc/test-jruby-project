@@ -1,0 +1,15 @@
+GIT
+  remote: git://github.com/myabc/test-jruby-library.git
+  revision: 2cf0e7530593a805b991e167964276ff37717feb
+  specs:
+    test-jruby-library (0.1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  test-jruby-library!
