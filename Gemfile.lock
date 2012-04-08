@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/myabc/test-jruby-library.git
-  revision: 2cf0e7530593a805b991e167964276ff37717feb
+  revision: 127f63d8d9eddbc6d59e6285fd53d1e66e636647
   specs:
     test-jruby-library (0.1.0)
 
@@ -10,6 +10,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   test-jruby-library!
